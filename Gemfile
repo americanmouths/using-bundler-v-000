@@ -13,3 +13,7 @@ gem "octokit", "~> 2.0"
 groups :development do
   gem "pry"
 end
+
+groups :test do
+  gem "respec"
+end
