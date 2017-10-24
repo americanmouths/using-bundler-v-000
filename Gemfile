@@ -11,4 +11,3 @@ gem "octokit", "~> 2.0"
 group :test do
   gem "respec"
 end
-
